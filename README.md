@@ -13,6 +13,12 @@
   - [Active Directory Setup and User Management](https://github.com/gabe-IT/active-directory-setup-user-management)
   - [Domain Joining and RDP Setup](https://github.com/gabe-IT/domain-joining-rdp-setup)
   - [User Creation and System Access Testing](https://github.com/gabe-IT/user-creation-system-access)
+- <b>Building Intuition for DNS</b>
+  - [DNS Exercises](https://github.com/gabe-IT/building-intuition-for-dns)
+    <ul>
+      <li>Covering foundational tasks like A-Record and CNAME Record setup, alongside Local DNS Cache Management.</li>
+    </ul>
+
 
 
 <h2>Connect with me:</h2>
