@@ -9,13 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/gabe-IT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabe-IT/azure-network-protocols)
-- <b>Azure Virtual Machine Setup and Network Configuration</b>
-  - [VM Provisioning and Network Setup](https://github.com/gabe-IT/vm-provisioning-network-setup)
-- <b>Active Directory Installation and Configuration</b>
+- <b>Active Directory</b>
   - [Active Directory Setup and User Management](https://github.com/gabe-IT/active-directory-setup-user-management)
-- <b>Domain Integration and Remote Desktop Configuration</b>
   - [Domain Joining and RDP Setup](https://github.com/gabe-IT/domain-joining-rdp-setup)
-- <b>Additional User Management and Testing</b>
   - [User Creation and System Access Testing](https://github.com/gabe-IT/user-creation-system-access)
 
 
