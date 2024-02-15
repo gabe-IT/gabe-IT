@@ -5,22 +5,16 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gabe-IT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gabe-IT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/gabe-IT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Provisioning a Virtual Machine within Azure and Inspecting Network Traffic](https://github.com/gabe-IT/azure-vm)
-  - [Configuring Active Directory within Azure VMs](https://github.com/gabe-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gabe-IT/azure-network-protocols)
 - <b>Active Directory</b>
-  - [Active Directory Setup and User Management](https://github.com/gabe-IT/active-directory-setup-user-management)
-  - [Domain Joining and RDP Setup](https://github.com/gabe-IT/domain-joining-rdp-setup)
-  - [User Creation and System Access Testing](https://github.com/gabe-IT/user-creation-system-access)
+  - [Active Directory Setup and User Management](https://github.com/gabe-IT/Azure-Domain-Controller-Setup)
+  - [File Share Permissions Management](https://github.com/gabe-IT/File-Share-Permissions-Lab)
 - <b>Building Intuition for DNS</b>
-  - [DNS Exercises](https://github.com/gabe-IT/building-intuition-for-dns)
+  - [DNS Exercises](https://github.com/gabe-IT/DNS-Management-Lab)
     <ul>
       <li>Covering foundational tasks like A-Record and CNAME Record setup, alongside Local DNS Cache Management.</li>
     </ul>
-
-
 
 <h2>Connect with me:</h2>
 
