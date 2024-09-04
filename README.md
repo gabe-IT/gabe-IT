@@ -1,5 +1,8 @@
 <h1>Hi, I'm Gabe, an <a href="https://linkedin.com/in/gabe-IT">IT and Cybersecurity Professional</a>☺</h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+[Building a SOC and Honeynet in Azure](https://github.com/gabe-IT/CyberCourse_SIEM)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
