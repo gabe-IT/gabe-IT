@@ -16,10 +16,13 @@
       <li>Covering foundational tasks like A-Record and CNAME Record setup, alongside Local DNS Cache Management.</li>
     </ul>
 
+<h2>📜 Certifications:</h2>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="129b5c30-e836-49f7-a705-2a9a1c4ac3a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gabe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/gabe-IT
