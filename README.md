@@ -17,7 +17,15 @@
     </ul>
 
 <h2>📜 Certifications:</h2>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="129b5c30-e836-49f7-a705-2a9a1c4ac3a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/129b5c30-e836-49f7-a705-2a9a1c4ac3a8/public_url">
+    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Comptia Network +" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/b243497f-8944-4cfa-bfd8-f4c8dfc92c10/public_url">
+    <img src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="Comptia A +" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/8e02d9b8-80ca-4590-87ed-92e75e0fc090/public_url">
+    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Comptia Security +" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h2>Connect with me:</h2>
 
