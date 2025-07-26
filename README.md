@@ -2,6 +2,10 @@
 
 **[IT Professional](https://linkedin.com/in/gabe-IT)** with expertise in system administration, network management, and security operations.
 
+## Python Projects
+
+- [Apache Log Analyzer](https://github.com/gabe-IT/log-analyzer)
+
 ## Information Technology Projects
 
 ### osTicket (Help Desk Ticketing System)
@@ -22,10 +26,6 @@
 ## Security Operations Projects
 
 - [Building a SOC and Honeynet in Azure](https://github.com/gabe-IT/CyberCourse_SIEM)
-
-## Python Projects
-
-*Coming soon - Python automation and scripting projects*
 
 ## Certifications
 
